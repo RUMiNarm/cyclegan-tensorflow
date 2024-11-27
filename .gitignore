@@ -5,3 +5,5 @@ checkpoint/*
 datasets/*
 test/*
 sample/*
+
+cuda-repo-wsl-ubuntu-12-6-local_12.6.3-1_amd64.deb
